@@ -5,7 +5,10 @@ import logging
 import time
 from http.client import HTTPConnection, socket
 
+"""
+ciao
 
+"""
 
 # SECTION LOGS
 datelog = datetime.now().strftime('%Y-%m-%d')
