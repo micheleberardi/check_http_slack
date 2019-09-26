@@ -1,1 +1,5 @@
+pip install redis
+pip install logging
+pip install time
+pip install HTTPConnection
 
